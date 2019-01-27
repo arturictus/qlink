@@ -1,3 +1,13 @@
+# QLink
+
+## Development
+
+### `npm run dev`
+
+This will lauch react development server an electon.
+
+## React create app documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
